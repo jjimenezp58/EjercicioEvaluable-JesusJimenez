@@ -1,0 +1,6 @@
+He entrado e github pinchado en nuevo repositorio y después de ponerle un nombre, he pinchado en crear repositorio.
+Se crea una rama de trabajo independiente de la rama main para realizar la actividad.
+Se crean los archivos necesarios dentro de la carpeta del repositorio después se completa el archivo Readme.md con la información que se solicita.
+Los cambios se añaden al área de preparación y se guardan mediante un commit.
+La rama de trabajo se publica en el repositorio remoto de Github.
+Para terminar se cambia la rama main, se actualiza y se integra en la rama de trabajo mediante merge.

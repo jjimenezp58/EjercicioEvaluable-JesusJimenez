@@ -1,0 +1,8 @@
+ Git clone
+Pwd 
+Ls 
+Mkdir 
+Touch
+Git swich
+Git commit
+Code .
